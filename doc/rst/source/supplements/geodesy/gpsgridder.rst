@@ -1,4 +1,4 @@
-.. index:: ! gpsgridder
+.. index:: ! gpsgriddder
 .. include:: ../module_supplements_purpose.rst_
 
 **********
